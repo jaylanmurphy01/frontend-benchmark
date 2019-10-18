@@ -1,4 +1,4 @@
-# Guestbook - Server Rendered Frontend Benchmark
+              # Guestbook - Server Rendered Frontend Benchmark
 
 In this project you will demonstrate your ability to work as a frontend
 developer with HTML/CSS/JS inside a small Django project.
